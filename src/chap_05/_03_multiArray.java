@@ -39,7 +39,7 @@ public class _03_multiArray {
         System.out.println(seats2[0][2]);
 
         // A5(없지만)에 접근하려면?
-        System.out.println(seats2[0][4]); // 인덱스 오류
+        //System.out.println(seats2[0][4]); // 인덱스 오류
 
         // 3차원 배열 만들기(세로 X 가로 X 높이)
         String[][][] marray = new String[][][] {
