@@ -1,6 +1,6 @@
 package chap_05;
 
-public class _03_multiArray {
+public class _03_MultiArray {
     public static void main(String[] args) {
         // 다차원 배열(2차원 배열)
 
@@ -49,5 +49,6 @@ public class _03_multiArray {
         };
         // 3차원 배열 접근
         // System.out.println(marray[][][]);
+
     }
 }
